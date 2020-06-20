@@ -1,0 +1,32 @@
+{
+  "posts": [
+  {
+    "id": 0,
+    "title": "Título 0",
+    "desc": "Descripción 0",
+    "author": "typicode"
+  },
+  {
+    "id": 1,
+    "title": "Título 1",
+    "desc": "Descripción 1",
+    "author": "typicode"
+  },
+  {
+    "id": 2,
+    "title": "Título 2",
+    "desc": "Descripción 2",
+    "author": "typicode"
+  },
+  {
+    "id": 3,
+    "title": "Título 3",
+    "desc": "Descripción 3",
+    "author": "typicode"
+  }  
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
